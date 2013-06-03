@@ -1,0 +1,1 @@
+DisjointSet.h is an implementation of a disjoint sets data structure.
